@@ -34,11 +34,11 @@ Exploring Big Data technologies and tools
 Enhancing my understanding of database security best practices and GDPR compliance
 💼 Looking Forward: Eager to kick-start my career in database administration/development, I am on the lookout for opportunities that will challenge me and allow me to grow my skill set while making impactful contributions. I am particularly interested in roles that focus on innovative database solutions, data analysis, and strategic data management.
 
-🔗 Let’s Connect:
-Feel free to reach out to me for collaborations, opportunities, or just to share knowledge and ideas about the ever-evolving world of databases.
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
 
+
+🔗 Let’s Connect:
+Feel free to reach out to me for collaborations, opportunities, or just to share knowledge and ideas about the ever-evolving world of databases.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
