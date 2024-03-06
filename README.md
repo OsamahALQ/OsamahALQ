@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Osamah ALQahtaini</h1>
+<h3 align="center">A passionate frontend developer from Canada</h3>
+
+- 🔭 I’m currently working on **create my own website**
+
+- 🌱 I’m currently learning **C# language.**
+
+- 👯 I’m looking for a project to help with **in SQL**
+
+- 💬 Ask me about **JavaScript, sql, and python**
+
+- 📫 How to reach me **osamahalqahtaini@cmail.carleton.ca**
+
+- ⚡ Fun fact **I like to play soccer and I'm super fast at it**
+
+
 
 🎓🚀 About Me: As an imminent Computer Science graduate from Carleton University with a passion for the complexities and infinite possibilities within database technologies, I'm on the cusp of launching my professional journey. Specializing in database design, management, and optimization, I aim to leverage my academic foundation and project experience to solve real-world data challenges.
 
@@ -26,5 +41,4 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 </p>
-
 
