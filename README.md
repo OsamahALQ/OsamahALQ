@@ -36,6 +36,10 @@ Enhancing my understanding of database security best practices and GDPR complian
 
 🔗 Let’s Connect:
 Feel free to reach out to me for collaborations, opportunities, or just to share knowledge and ideas about the ever-evolving world of databases.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
