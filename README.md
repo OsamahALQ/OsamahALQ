@@ -48,15 +48,14 @@ Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
+
 Diving deeper into cloud-based database solutions like AWS RDS, Google Cloud SQL, and Azure SQL Database
 Exploring Big Data technologies and tools
 Enhancing my understanding of database security best practices and GDPR compliance
 💼 Looking Forward: Eager to kick-start my career in database administration/development, I am on the lookout for opportunities that will challenge me and allow me to grow my skill set while making impactful contributions. I am particularly interested in roles that focus on innovative database solutions, data analysis, and strategic data management.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
-
-
-🔗 Let’s Connect:
+## 🔗 Let’s Connect:
 Feel free to reach out to me for collaborations, opportunities, or just to share knowledge and ideas about the ever-evolving world of databases.
 
 <h3 align="left">Connect with me:</h3>
