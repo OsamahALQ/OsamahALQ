@@ -46,7 +46,6 @@ Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-uejs" width="40" height="40"/> </a> </p>
 
 Diving deeper into cloud-based database solutions like AWS RDS, Google Cloud SQL, and Azure SQL Database
 Exploring Big Data technologies and tools
