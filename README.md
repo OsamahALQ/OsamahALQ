@@ -29,6 +29,7 @@ Familiar with: Oracle, MySQL, MongoDB, PostgreSQL, Microsoft SQL Server, and Sup
 Tools & Platforms: Docker, Git, Vistual Studio Code, QT tool, and MongoBD
 Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 <h3 align="left">Languages and Tools:</h3>
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
