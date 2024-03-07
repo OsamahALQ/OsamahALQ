@@ -22,7 +22,6 @@ Proficient in: SQL, Python, Java, C, C++, JavaScript, and Haskell
 Familiar with: Oracle, MySQL, MongoDB, PostgreSQL, Microsoft SQL Server, and Supabase
 Tools & Platforms: Docker, Git, Vistual Studio Code, QT tool, and MongoBD
 Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
-<h3 align="left">Languages and Tools:</h3>
 
 ## Tech Stack
 
