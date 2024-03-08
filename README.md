@@ -7,6 +7,8 @@
 
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+- 🌍  I'm based in Ottawa, Canada
+
 - 💬 Ask me about **JavaScript, sql, and python**
 
 - 📫 How to reach me **osamahalqahtaini@cmail.carleton.ca**
