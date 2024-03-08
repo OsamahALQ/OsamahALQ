@@ -67,5 +67,5 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <p align="left">
 <a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
-<a href="https://twitter.com/osamah9_" target="blank"><img align="center" src="https://github.com/OsamahALQ/OsamahALQ/assets/119085239/a4f01a64-6a18-458b-8740-93a7311cc48e"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="binodah" height="30" width="40" /></a>
+<a href="https://twitter.com/osamah9_" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="binodah" height="30" width="40" /></a>
 </p>
