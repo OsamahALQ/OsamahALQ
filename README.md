@@ -69,3 +69,30 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 </p>
 
+
+
+## Choose Your Own Adventure
+
+You're standing in a dark room. There's a door to your left and right.
+
+- [Go left](#left)
+- [Go right](#right)
+
+### Left
+
+You find yourself in a library. There's a book on the table.
+
+- [Read the book](#read-the-book)
+- [Go back](#choose-your-own-adventure)
+
+### Right
+
+It's a trap! Game Over.
+
+- [Start over](#choose-your-own-adventure)
+
+### Read the Book
+
+You've discovered the secret to GitHub Actions! Congratulations!
+
+- [Start over](#choose-your-own-adventure)
