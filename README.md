@@ -54,11 +54,7 @@ Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamahalq&show_icons=true&locale=en" alt="osamahalq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamahalq&" alt="osamahalq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
 
 
 ## 💼 Looking Forward
