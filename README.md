@@ -69,7 +69,3 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 </p>
 
-
-## Play the Snake Game
-
-I've created a simple Snake game that you can play. Check it out [here](https://yourgithubusername.github.io/snake-game/).
