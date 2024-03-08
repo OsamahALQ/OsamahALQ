@@ -67,16 +67,6 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <p align="left">
 <a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamahalq&show_icons=true&locale=en" alt="osamahalq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamahalq&" alt="osamahalq" /></p>
-
-## Connect with me 
-<p align="left">
-<a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
-<a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 <a href="https://twitter.com/osamah9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamah9_" height="30" width="40" /></a>
 <a href="https://discord.gg/binodah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="binodah" height="30" width="40" /></a>
 </p>
