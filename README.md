@@ -1,4 +1,7 @@
-<h1 align="center">![Neon Futuristic Gaming Youtube Banner](https://github.com/OsamahALQ/OsamahALQ/assets/119085239/b672b835-8fcf-4698-a37f-2131cdbb44b2)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/OsamahALQ/OsamahALQ/main/assets/119085239/b672b835-8fcf-4698-a37f-2131cdbb44b2" alt="Neon Futuristic Gaming Youtube Banner">
+</h1>
+
 
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osamah+ALQahtaini!;" />
 </h1>
