@@ -1,7 +1,7 @@
 ![Neon Futuristic Gaming Youtube Banner (2560 x 1000 px) (2560 x 800 px)](https://github.com/OsamahALQ/OsamahALQ/assets/119085239/b6059f53-96cf-45be-a3f2-d0aaf54ee6b3)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=a335ee&lines=Hi+There!+👋;+I'm+Osamah!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=a335ee&lines=Hi+There!+👋;+I'm+Osamah!;" />
 </h1>
 
 
