@@ -69,3 +69,6 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 </p>
 
+
+
+[Play Snake Game](https://example.com/snake-game)
