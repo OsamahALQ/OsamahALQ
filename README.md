@@ -57,9 +57,6 @@ Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahalq&show_icons=true&locale=en&layout=compact" alt="osamahalq" /></p>
-
-
 ## 💼 Looking Forward
 Eager to kick-start my career in database administration/development, I am on the lookout for opportunities that will challenge me and allow me to grow my skill set while making impactful contributions. I am particularly interested in roles that focus on innovative database solutions, data analysis, and strategic data management.
 
