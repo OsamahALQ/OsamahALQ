@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🌍  I'm based in Ottawa, Canada
+- 🌍  I'm based in Ottawa
 
 - 💬 Ask me about **JavaScript, sql, and python**
 
