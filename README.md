@@ -103,6 +103,3 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 [cta-6]:  https://tic-tac-toe-backend.onrender.com/clickCell?cellIndex=6
 [cta-7]:  https://tic-tac-toe-backend.onrender.com/clickCell?cellIndex=7
 [cta-8]:  https://tic-tac-toe-backend.onrender.com/clickCell?cellIndex=8
-
-[play-button-image]:  https://tic-tac-toe-backend.onrender.com/renderPlayControls
-[play-button-image-cta]:  https://tic-tac-toe-backend.onrender.com/clickPlayControls
