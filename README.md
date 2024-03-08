@@ -71,4 +71,4 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 </p>
 
 
-![X_logo_2023_(white)](https://github.com/OsamahALQ/OsamahALQ/assets/119085239/a4f01a64-6a18-458b-8740-93a7311cc48e)
+
