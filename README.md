@@ -69,5 +69,3 @@ Feel free to reach out to me for collaborations, opportunities, or just to share
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 <a href="https://twitter.com/osamah9_" target="blank"><img align="center" src="https://github.com/OsamahALQ/OsamahALQ/assets/119085239/a4f01a64-6a18-458b-8740-93a7311cc48e"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="binodah" height="30" width="40" /></a>
 </p>
-
-![x-social-media-logo-icon](https://github.com/OsamahALQ/OsamahALQ/assets/119085239/a2b85f9c-a2bf-49ad-ab2c-2cf3d27e1c25)
