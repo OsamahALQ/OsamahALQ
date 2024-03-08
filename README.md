@@ -20,18 +20,16 @@
 ## 🎓🚀 About Me: 
 As an imminent Computer Science graduate from Carleton University with a passion for the complexities and infinite possibilities within database technologies, I'm on the cusp of launching my professional journey. Specializing in database design, management, and optimization, I aim to leverage my academic foundation and project experience to solve real-world data challenges.
 
-## 🔍 My Focus
+## 🔍 My Focus:
 The power of data to unlock insights, drive decision-making, and fuel innovation captivates me. My particular interest lies at the intersection of traditional and modern database technologies—spanning SQL and NoSQL databases, cloud database management, and the strategic implementation of data warehousing. This blend of disciplines represents the future of data handling, where efficiency, scalability, and security are paramount. My goal is to contribute to the development and optimization of database solutions that not only meet the current demands but are also forward-thinking, ready to evolve with technological advancements and emerging business needs.
 
-## 🛠 Skills & Technologies
-
+## 🛠 Skills & Technologies:
 Proficient in: SQL, Python, Java, C, C++, JavaScript, and Haskell
 Familiar with: Oracle, MySQL, MongoDB, PostgreSQL, Microsoft SQL Server, and Supabase
 Tools & Platforms: Docker, Git, Vistual Studio Code, QT tool, and MongoBD
 Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 
-## Tech Stack
-
+## Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,19 +57,17 @@ Concepts: Database Design, Data Modeling, Performance Tuning, Data Security
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-## 💼 Looking Forward
+## 💼 Looking Forward:
 Eager to kick-start my career in database administration/development, I am on the lookout for opportunities that will challenge me and allow me to grow my skill set while making impactful contributions. I am particularly interested in roles that focus on innovative database solutions, data analysis, and strategic data management.
 
-## 🔗 Let’s Connect
+## 🔗 Let’s Connect:
 Feel free to reach out to me for collaborations, opportunities, or just to share knowledge and ideas about the ever-evolving world of databases.
 
-## 💻 Connect with me 
+## 💻 Connect with me:
 <p align="left">
-
 <a href="https://linkedin.com/in/osamah alqahtaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah alqahtaini" height="30" width="40" /></a>
 <a href="https://instagram.com/osamahalq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamahalq_" height="30" width="40" /></a>
 <a href="https://twitter.com/osamah9_" target="blank"><img align="center" src="https://github.com/OsamahALQ/OsamahALQ/assets/119085239/132e5e4b-112f-4986-91a9-8d67725c0545" alt="osamah9_" height="40" width="40" /></a>
-
 </p>
 
 
