@@ -5,9 +5,6 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=500&height=80&duration=4000&color=a335ee&lines=Hi+There!+👋;+I'm+Osamah!;" />
 </h1>
 
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=a335ee&lines=Hi+There!+👋;+I'm+Osamah!;" />
-</h1>
 
 
 
